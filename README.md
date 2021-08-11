@@ -1,7 +1,7 @@
 <header>
- <b>Olá! Eu sou o Radamés, e aqui esta a minha jornada tecnologica. (:</b>
+ <b>Olá! Eu sou o Radamés, muito prazer! E aqui esta a minha jornada tecnologica. (:</b>
   <br>
-   <b><i>Hey! I'm Radamés, and here is my tech journey. (:</b></i>
+   <b><i>Hey! I'm Radamés, nice to meet you! And here is my tech journey. (:</b></i>
  </header>
 <br>
 
@@ -13,8 +13,8 @@
      *Any help is welcome, together we are more strong, shared knowledge is a double knowledge;*
 - 📈 Eterno curioso, aprendiz na vida;<br>
      *eternal curious apprentice in life;*
-- 🔻 Para me conhecer melhor: Dêem uma olhada nas redes;<br>
-     *to know me better: take a look at the networks;*
+- 🔻 Para me conhecer melhor: Dêem uma olhada nas redes, e entre em contato por e-mail;<br>
+     *to know me better: take a look at the networks, and contact by e-mail;*
      
 ##
  
