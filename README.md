@@ -1,11 +1,21 @@
-## Olá! Eu sou o Radamés, e aqui segue minha saga tecnologica (:
+<header>
+ <b>Olá! Eu sou o Radamés, e aqui esta a minha jornada tecnologica. (:</b>
+  <br>
+   <b><i>Hey! I'm Radamés, and here is my tech journey. (:</b></i>
+ </header>
+<br>
 
+##
 
-- 🌱 No momento aprendendo, HTML+CSS e JS;
-- 🤔 Toda ajuda possível é bem vinda, no coletivo somos mais fortes;
-- 😄 Pronouns: Ele/Dele;
-- ⚡ Aprendiz na vida;
-
+- 💻 No momento aprendendo, HTML+CSS e JS;<br>
+     *I'm learning HTML+CSS and JS in moment;*
+- 💪🏾 Toda ajuda é bem vinda, juntos somos mais fortes, conhecimento compartilhado é um conhecimento dobrado;<br>
+     *Any help is welcome, together we are more strong, shared knowledge is a double knowledge;*
+- 📈 Eterno curioso, aprendiz na vida;<br>
+     *eternal curious apprentice in life;*
+- 🔻 Para me conhecer melhor: Dêem uma olhada nas redes;<br>
+     *to know me better: take a look at the networks;*
+     
 ##
  
 <div> 
