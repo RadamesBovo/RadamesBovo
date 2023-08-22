@@ -1,6 +1,7 @@
 # radamesbovo
 Olá, me chamo Radamés tenho 29 anos.<br>
-Corinthiano morador da zona leste, acampante e pintor nas horas vagas, entusiasta da tecnologia e engatinhando na área de tecnologia. Um aprendiz da vida.<br>
+Corinthiano morador da zona leste, acampante e pintor nas horas vagas, <br>
+entusiasta e aprendiz na área de tecnologia. Na verdade um aprendiz da vida.<br>
 Vamos juntos! Juntos a gente chega mais longe.<br>
 Para me conhecer melhor me chama para ser seu juninho, <br>
 me chama para uma cerveja, ou então só me chama nas redes sociais mesmo:
