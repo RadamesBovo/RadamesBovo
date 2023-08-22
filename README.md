@@ -1,27 +1,31 @@
-<header>
- <b>Olá! Eu sou o Radamés, muito prazer! E aqui esta a minha jornada tecnologica. (:</b>
-  <br>
-   <b><i>Hey! I'm Radamés, nice to meet you! And here is my tech journey. (:</b></i>
- </header>
+# radamesbovo
+Olá, me chamo Radamés tenho 29 anos.
+Corinthiano morador da zona leste, acampante e pintor nas horas vagas, entusiasta da tecnologia e engatinhando na área de tecnologia. Um aprendiz da vida.<br>
+Vamos juntos! Juntos a gente chega mais longe.<br>
+Para me conhecer melhor me chama para ser seu juninho, <br>
+me chama para uma cerveja, ou então só me chama nas redes sociais mesmo:
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_radz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/radam%C3%A9s-bovo-albino-53488a164/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/raaadz1312/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/_radzzz)
+
+### Skills pessoais (Soft Skills):
+
+- Trabalho bem em equipe;
+- Trabalho bem sob pressão;
+- Paciente;
+- Curioso;
+- Criativo; 
+
+### Skills tecnicas (Hard Skills):
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 <br>
+<br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=radamesbovo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-##
-
-- 💻 No momento aprendendo, HTML+CSS e JS;<br>
-     *I'm learning HTML+CSS and JS in moment;*
-- 💪🏾 Toda ajuda é bem vinda, juntos somos mais fortes, conhecimento compartilhado é um conhecimento dobrado;<br>
-     *Any help is welcome, together we are more strong, shared knowledge is a double knowledge;*
-- 📈 Eterno curioso, aprendiz na vida;<br>
-     *eternal curious, apprentice in life;*
-- 🔻 Para me conhecer melhor: Dêem uma olhada nas redes, e entre em contato por e-mail;<br>
-     *to know me better: take a look at the networks, and contact by e-mail;*
-     
-##
- 
-<div> 
-  <a href="https://www.instagram.com/_radz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/radzon3" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rbovo.a1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/radam%C3%A9s-bovo-albino-53488a164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/radzone/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-</div>
