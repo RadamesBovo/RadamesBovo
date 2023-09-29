@@ -1,6 +1,6 @@
 ## Descrição:
 Olá, me chamo Radamés tenho 29 anos.<br>
-Corinthiano morador da zona leste, acampante e pintor nas horas vagas, <br>
+Corinthiano morador da zona leste, acampante e pintor nas horas vagas (não só pintor de botão), <br>
 entusiasta e aprendiz na área de tecnologia. Na verdade um aprendiz da vida.<br>
 Vamos juntos! Juntos a gente chega mais longe.<br>
 Para me conhecer melhor me chama para ser seu juninho, <br>
