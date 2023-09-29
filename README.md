@@ -14,7 +14,6 @@ me chama para uma cerveja, ou então só me chama nas redes sociais mesmo:
 ### Skills pessoais (Soft Skills):
 
 - Trabalho bem em equipe;
-- Trabalho bem sob pressão;
 - Paciente;
 - Curioso;
 - Criativo; 
